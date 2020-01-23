@@ -1,2 +1,2 @@
-# Game_Jam_Info
-Information about our game jam events.
+# ScriptersCF Gamejam Information
+#### Updated 23/01/2020
