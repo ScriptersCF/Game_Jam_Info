@@ -12,7 +12,9 @@ A game jam is an event where you have to make a game based on a theme in a speci
     - You may use any image assets and decals
     - You may use any audio assets
     - You may use any mesh assets
-    - You may use 
+    - You may use small free/pre-built models
+        - You are **not** allowed to use pre-built maps or anything significant. Check if unsure.
+        - Free models must not contain prewritten scripts
     - You may use plugins that assist with the development of general games
         - If you are unsure whether your plugin can be used, be sure to ask
 
@@ -48,3 +50,5 @@ If you have found that someone is cheating, you must contact the event host imme
 
 #### Do I get to keep my game after submitting?
 Yes, your submissions are still your own property and we would never publish them on your behalf. If you are chosen to be awarded Robux, we will ask for a copy of your game file in order to check for any signs of cheating, but your game file is deleted after being checked.
+
+*These rules are subject to change at any given time. We have the right to refuse to award a prize or cancel the event at our own discretion. You are not entitled to a prize.*
