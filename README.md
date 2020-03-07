@@ -49,6 +49,6 @@ Modifying your game after the end is **not** allowed and may result in disqualif
 If you have found that someone is cheating, you must contact the event host immediately so that we can deal with the situation. It is important that we are made aware of such issues, otherwise we might give our prize to a team that did not participate fairly.
 
 #### Do I get to keep my game after submitting?
-Yes, your submissions are still your own property and we would never publish them on your behalf. If you are chosen to be awarded Robux, we will ask for a copy of your game file in order to check for any signs of cheating, but your game file is deleted after being checked.
+Yes, your submissions are still your own property and we would never publish them on your behalf. If you are chosen to be awarded Robux, we will ask for a copy of your game file in order to check for any signs of cheating, but we delete the given file after being checked.
 
 *These rules are subject to change at any given time. We have the right to refuse to award a prize or cancel the event at our own discretion. You are not entitled to a prize.*
