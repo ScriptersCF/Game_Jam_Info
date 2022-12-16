@@ -55,4 +55,4 @@ You're welcome to contribute your game to our open-source organisation, promote 
 
 You are equally welcome to continue your game without any affiliation with ScriptersCF, promote it on Roblox under your own name and keep all of its revenue as you would with any other projects.
 
-*These rules are subject to change at any given time. This is not a giveaway, and so you are not necessarily entitled to a prize. You should only be participating to gain development experience and have fun. Our donated prize pool should only be considered an additional incentive, which we award to developers that have participated fairly.*
+*These rules are subject to change at any given time. This is not a giveaway, and so you are not necessarily entitled to a prize. You should only be participating to gain development experience and have fun. Our donated prize pool should only be considered an additional incentive, which we award to winning developers that have participated fairly.*
