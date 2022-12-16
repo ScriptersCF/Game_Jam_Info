@@ -1,7 +1,7 @@
 # ScriptersCF Gamejam Information
 
 ## Introduction
-A game jam is an event where you have to make a game based on a theme in a specified amount of time, which is usually 24 hours at ScriptersCF. After completing and submitting your game, the community will vote for their favourite game privately. The developer(s) behind the best game receives a prize derived from donations which has previously gone up to **125,000R$**.
+A game jam is an event where you have to make a game based on a theme in a specified amount of time, which is usually 24 hours at ScriptersCF. After completing and submitting your game, we will determine our favourite game with a community vote and/or panel of judges, at our discretion. We pledge to send the developer(s) behind the best game a prize derived from donations, which has previously gone up to **125,000R$**.
 
 ## Rules
 - All scripts MUST be created by you within the allotted time
@@ -19,7 +19,7 @@ A game jam is an event where you have to make a game based on a theme in a speci
         - If you are unsure whether your plugin can be used, be sure to ask
 
 ## Preparation
-First, you need to decide whether you want to participate as a solo developer or with a team of developers. If you want to find a team and potentially make new friends during the process, you can use the `#game-jam-chat` channel to discuss what you are looking for. Once you have decided who you will work with, you **must** DM the event host with a team name (if applicable) and the Discord usernames of all participants.
+First, you need to decide whether you want to participate as a solo developer or with a team of developers. If you want to find a team and potentially make new friends during the process, you can use the `#gamejam-chat` channel to discuss what you are looking for. Once you have decided who you will work with, you **must** fill in the entry form mentioned in the announcement.
 
 Once registered, you might find it useful to get to know your team, and discuss the times that you will be available during the event.
 If you are interested in streaming the development of your game, you can DM the event host for your stream to be featured in our `#game-jam-streamers` channel.
@@ -27,11 +27,11 @@ If you are interested in streaming the development of your game, you can DM the 
 ## During the Event
 Once the event starts, the theme will be announced and you will be allowed to start. In the case of any disagreements, you are allowed to leave your team and participate in the event solo, however you will not be allowed to join another team, so it's important that you plan ahead.
 
-Once you have finished your game, you should DM a link to the host of the event so they can add you to the entries channel. You **must** submit your game before the end of the event, otherwise you risk being **disqualified**, which means that we won't be able to accept any of your work.
+Once you have finished your game, you must fill in the entries form linked. You **must** submit your game before the end of the event, otherwise you risk being **disqualified**, which means that we won't be able to accept any of your work.
 
 ## Frequently Asked Questions
 #### How is the prize awarded?
-The Robux prize is paid out via Group Payout after being taxed. You can join our Roblox group at [scf.cx/roblox](https://scf.cx/roblox)
+The Robux prize is paid out via Group Payout. You can join our Roblox group at [scf.cx/roblox](https://scf.cx/roblox)
 
 #### Can I ask my friends to vote for my game?
 You are **not** allowed to ask friends to vote for your game. If you are caught, you risk being disqualified.
@@ -49,6 +49,10 @@ Modifying your game after the end is **not** allowed and may result in disqualif
 If you have found that someone is cheating, you must contact the event host immediately so that we can deal with the situation. It is important that we are made aware of such issues, otherwise we might give our prize to a team that did not participate fairly.
 
 #### Do I get to keep my game after submitting?
-Yes, your submissions are still your own property and we would never publish them on your behalf. If you are chosen to be awarded Robux, we will ask for a copy of your game file in order to check for any signs of cheating, but we delete the given file after being checked.
+Yes, your submissions are still entirely your own property and we would never publish them on your behalf. If you are chosen to be awarded Robux, we will ask for a copy of your game file in order to check for any signs of cheating, but we delete the given file after being checked.
 
-*These rules are subject to change at any given time. We have the right to refuse to award a prize or cancel the event at our own discretion. You are not entitled to a prize.*
+You're welcome to contribute your game to our open-source organisation, promote our community or donate to our future events, but none of this is a requirement.
+
+You are equally welcome to continue your game without any affiliation with ScriptersCF, promote it on Roblox under your own name and keep all of its revenue as you would with any other projects.
+
+*These rules are subject to change at any given time. We have the right to refuse to award a prize or cancel the event at our own discretion. This is not a giveaway, and so you are not necessarily entitled to a prize. We host these events purely voluntarily and to help you gain development experience - a prize is just an additional incentive we offer, and should not be the reason you participate.*
