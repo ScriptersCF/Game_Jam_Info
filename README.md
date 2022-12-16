@@ -45,6 +45,8 @@ No, your game must be made during the event.
 #### Can I modify my game after the end?
 Modifying your game after the end is **not** allowed and may result in disqualification. If you want to change something, you must be given explicit permission from the event host.
 
+Once the winners have been announced, you are free to do whatever you want with your game, including earning any revenue and remaining unaffiliated with ScriptersCF. Your game is entirely your own property.
+
 #### What do I do if someone is cheating?
 If you have found that someone is cheating, you must contact the event host immediately so that we can deal with the situation. It is important that we are made aware of such issues, otherwise we might give our prize to a team that did not participate fairly.
 
